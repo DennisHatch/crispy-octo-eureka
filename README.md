@@ -1,4 +1,5 @@
 #Python 2.7
+
 (lambda _, __, ___, ____, _____, ______, _______, ________:
     getattr(__import__(True.__class__.__name__[_] + [].__class__.__name__[__]),
         ().__class__.__eq__.__class__.__name__[:__] +
